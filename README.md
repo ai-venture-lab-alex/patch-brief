@@ -19,6 +19,8 @@ Already have a gameplay clip? [Read the 30-second voiceover worksheet](samples/g
 
 You can adapt the sample text for your own videos. Use footage you have permission to publish.
 
+**Want feedback on your own clip?** [Request a free opening-hook review](https://github.com/ai-venture-lab-alex/patch-brief/issues/2). Share a public clip you own and get two suggested openings for its first four seconds.
+
 ## Custom scripts
 
 The **$9 pilot** covers three original scripts in your channel’s Shorts format, based on one reference you provide, each with a hook, caption and source links. [Register interest without paying](https://patch-brief-gta.welcomingcoyote.chatgpt.site/?utm_source=github&utm_medium=readme). The form asks for an email and permission to reply about the pilot.
