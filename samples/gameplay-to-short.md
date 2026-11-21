@@ -18,8 +18,8 @@ Keep claims tied to the footage. Mention your platform or settings if they affec
 Example for a clip from your own stream, using a fictional driving challenge.
 
 - **Raw opening:** Four seconds of driving toward a corner with no context.
-- **Result-first opening:** Show the near miss. Say, “I had one try to take this corner without touching the wall.”
-- **Question-first opening:** Freeze on the approach. Say, “Can I make this turn without braking?” Cut right into the attempt.
+- **Result-first opening:** Show the near miss. Say, “One try. I cleared the corner without braking.”
+- **Question-first opening:** Freeze on the approach. Say, “Can I clear this corner without braking?” Cut right into the attempt.
 
 Pick the version that makes sense to someone who missed the stream. Keep the rest of the clip the same when comparing the two cuts. Check whether viewers stay past the opening if you have retention data.
 
