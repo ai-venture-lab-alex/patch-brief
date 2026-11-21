@@ -11,6 +11,8 @@ Free GTA VI scripts for gaming Shorts, TikTok and stream intros. Patch Brief is 
 | Spoiler-free stream intro | Setting chat expectations before gameplay |
 | Motion blur comparison | Showing two takes from your own setup |
 
+[Use the 30-second gameplay-to-Shorts template](samples/gameplay-to-short.md) if you already have a clip and need a voiceover structure.
+
 **Sample stream intro**
 
 > Before we start, a quick chat rule: please keep story reveals and late-game locations out of chat. I’m sharing first impressions today. If we reach anything story-heavy, I’ll give a heads-up.
