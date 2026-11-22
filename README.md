@@ -17,6 +17,8 @@ Already have a gameplay clip? [Read the 30-second voiceover worksheet](samples/g
 
 > Before we start, a quick chat rule: please keep story reveals and late-game locations out of chat. I’m sharing first impressions today. If we reach anything story-heavy, I’ll give a heads-up.
 
+[Read the free stream kit](samples/spoiler-free-stream-chat.md) for a chat pin and a spoiler warning you can use during the broadcast.
+
 You can adapt the sample text for your own videos. Use footage you have permission to publish.
 
 **Want feedback on your own clip?** [Request a free opening-hook review](https://github.com/ai-venture-lab-alex/patch-brief/issues/2). Share a public clip you own and get two suggested openings for its first four seconds.
